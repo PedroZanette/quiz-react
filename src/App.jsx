@@ -16,6 +16,16 @@ const quizData = [
     question: "Quem escreveu 'Dom Quixote'?",
     options: ["Miguel de Cervantes", "William Shakespeare", "Homer", "Virgílio"],
     answer: "Miguel de Cervantes",
+  },
+  {
+    question: "Qual é o elemento químico representado pelo símbolo 'O'?",
+    options: ["Oxigênio", "Ouro", "Osmium", "Óxido de Carbono"],
+    answer: "Oxigênio",
+  },
+  {
+    question: "Qual mamífero é capaz de voar?",
+    options: ["Morcego", "Águia", "Esquilo", "Golfinho"],
+    answer: "Morcego",
   }
 ];
 
